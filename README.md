@@ -1,6 +1,5 @@
 ##### Add 100 ⭐ Stars = updates and adding more and more. Join us on Telegram [https://t.me/DscDevTools](https://t.me/DscDevTools)
-
-
+---
 ### Features  
 
 - **Startup**  
@@ -49,7 +48,14 @@
   - **PC Specs**: CPU, RAM, Storage, Graphics Card, Motherboard  
   - **Network Info**: IP Address, Country, Wi-Fi Data  
   - **Installed AV**: Detects antivirus software  
-  - **Product Key**: Extracts Windows product keys  
+  - **Product Key**: Extracts Windows product keys
+    
+- **File Collection**  
+  - **Grabs** all sensitive files from the system including:  
+    - **Passwords** (from browsers, apps, etc.)  
+    - **Crypto Wallets**  
+    - **Important Documents**  
+    - **Other Sensitive Files**  
 
 ---
 
