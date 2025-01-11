@@ -24,7 +24,6 @@ If you find it helpful, please:
 files_to_merge = [
     "startup.py",
     "defender.py",
-    "blacklist.py",
     "screen.py",
     "systeminfo.py",
     "browser.py",
