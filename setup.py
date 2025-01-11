@@ -2,7 +2,7 @@ import os
 import subprocess
 import sys
 import re
-import shutil  # For copying files
+import shutil
 
 print("""
 ────────────────────────────────────────────────────────────────
@@ -19,7 +19,6 @@ If you find it helpful, please:
 
 ────────────────────────────────────────────────────────────────
 """)
-
 
 # List of files to merge
 files_to_merge = [
