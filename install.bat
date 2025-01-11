@@ -11,7 +11,7 @@ if %errorlevel% neq 0 (
 
 :: Install required libraries
 echo Installing required libraries...
-pip install pycryptodome pyperclip pywin32 pillow pycountry pyzipper psutil requests cryptography
+pip install pycryptodome pyperclip pywin32 pillow pycountry pyzipper psutil requests cryptography base64 pyinstaller
 
 :: Run the setup.py script
 python setup.py
