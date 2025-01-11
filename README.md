@@ -37,7 +37,7 @@
   -  **Coinomi**  
   -  **MetaMask**  
 
-- **Browser Data Collection**  
+- **Browsers Data**  
   - **Cookies**  
   - **Saved Passwords**  
   - **Browsing History**  
@@ -50,9 +50,9 @@
   - **Installed AV**: Detects antivirus software  
   - **Product Key**: Extracts Windows product keys
     
-- **File Collection**  
+- **Files Collection**  
   - **Grabs** all sensitive files from the system including:  
-    - **Passwords** (from browsers, apps, etc.)  
+    - **Passwords** (from pc, txt files, etc.)  
     - **Crypto Wallets**  
     - **Important Documents**  
     - **Other Sensitive Files**
