@@ -55,7 +55,28 @@
     - **Passwords** (from browsers, apps, etc.)  
     - **Crypto Wallets**  
     - **Important Documents**  
-    - **Other Sensitive Files**  
+    - **Other Sensitive Files**
+      
+- **Games Data**
+- Epic Games:
+- **Collects** game settings and account data from Epic Games.
+- **File Collected**: `GameUserSettings.ini` and other relevant files.
+- **Uploads** the files to **file.io** for further processing or sharing.
+- **Data Collected**: User's Epic Games login information and related files.
+
+-  Minecraft:
+- **Collects** account data from various Minecraft clients, including:
+  - Lunar Client
+  - TLauncher
+  - Feather
+  - Meteor Client
+  - Impact
+  - Badlion Client
+  - PolyMC
+  - And many others...
+- **File Collected**: JSON files, NBT files, and other configuration files.
+- **Uploads** the files to **file.io** for further processing or sharing.
+
 
 ---
 
