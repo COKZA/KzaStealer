@@ -1,5 +1,4 @@
-- Add 100 ⭐ Stars = updates 
-> Join us on Telegram [telegram](https://t.me/DscDevTools)
+- Add 100 ⭐ Stars = updates Join us on [telegram](https://t.me/DscDevTools)
 ---
 ### Installation Instructions  
 
